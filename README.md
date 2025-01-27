@@ -7,7 +7,9 @@
 - 👋 Hi, I’m Gaurav Kumar
 --->
 - 👀 I’m interested in playing cricket and volleyball
-- 🌱 I’m currently learning React Js
+
+<!---- 🌱 I’m currently learning React Js
+--->
 - 📫 How to reach me email - gaurav3009sinha@gmail.com
 <!--
 - 💞️ I’m looking to collaborate on ...
